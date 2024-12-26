@@ -4,8 +4,9 @@
 
 Mô tả: Đây là một ứng dụng Java hỗ trợ học từ vựng thông qua các chức năng như quản lý từ vựng, làm bài kiểm tra trắc nghiệm, và theo dõi tiến độ học tập.
 
-3. Motivation – WHY
+2. Motivation – WHY
 Học ngoại ngữ là một nhu cầu phổ biến trong cuộc sống hiện đại, đặc biệt đối với học sinh, sinh viên, và người đi làm. Tuy nhiên, quá trình học từ vựng thường gặp những khó khăn như:
+
 Thiếu phương pháp học tập hiệu quả: Ghi nhớ từ vựng dễ dàng bị nhàm chán hoặc không có hệ thống.
 
 Không có công cụ theo dõi tiến độ: Người học khó nắm bắt được mình đang tiến bộ như thế nào.
